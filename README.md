@@ -1,3 +1,3 @@
 # Project definition:
 
-Python tool developed to get access of weather information
+Python tool developed to get access to weather information
